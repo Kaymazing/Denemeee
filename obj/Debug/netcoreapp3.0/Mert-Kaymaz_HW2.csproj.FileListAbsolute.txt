@@ -1,0 +1,11 @@
+C:\Users\MertKaymaz\source\repos\Mert-Kaymaz_HW2\bin\Debug\netcoreapp3.0\Mert-Kaymaz_HW2.exe
+C:\Users\MertKaymaz\source\repos\Mert-Kaymaz_HW2\bin\Debug\netcoreapp3.0\Mert-Kaymaz_HW2.deps.json
+C:\Users\MertKaymaz\source\repos\Mert-Kaymaz_HW2\bin\Debug\netcoreapp3.0\Mert-Kaymaz_HW2.runtimeconfig.json
+C:\Users\MertKaymaz\source\repos\Mert-Kaymaz_HW2\bin\Debug\netcoreapp3.0\Mert-Kaymaz_HW2.runtimeconfig.dev.json
+C:\Users\MertKaymaz\source\repos\Mert-Kaymaz_HW2\bin\Debug\netcoreapp3.0\Mert-Kaymaz_HW2.dll
+C:\Users\MertKaymaz\source\repos\Mert-Kaymaz_HW2\bin\Debug\netcoreapp3.0\Mert-Kaymaz_HW2.pdb
+C:\Users\MertKaymaz\source\repos\Mert-Kaymaz_HW2\obj\Debug\netcoreapp3.0\Mert-Kaymaz_HW2.csprojAssemblyReference.cache
+C:\Users\MertKaymaz\source\repos\Mert-Kaymaz_HW2\obj\Debug\netcoreapp3.0\Mert-Kaymaz_HW2.AssemblyInfoInputs.cache
+C:\Users\MertKaymaz\source\repos\Mert-Kaymaz_HW2\obj\Debug\netcoreapp3.0\Mert-Kaymaz_HW2.AssemblyInfo.cs
+C:\Users\MertKaymaz\source\repos\Mert-Kaymaz_HW2\obj\Debug\netcoreapp3.0\Mert-Kaymaz_HW2.dll
+C:\Users\MertKaymaz\source\repos\Mert-Kaymaz_HW2\obj\Debug\netcoreapp3.0\Mert-Kaymaz_HW2.pdb
